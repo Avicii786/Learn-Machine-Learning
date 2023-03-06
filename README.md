@@ -11,3 +11,8 @@
 
 ## Books
 - An excellent and free book you can start your deep learning journey: [Dive in to Deep Learning](http://d2l.ai/index.html)
+
+## Tools
+
+  - Web Scraping Tools
+    - [Snscrape](https://github.com/JustAnotherArchivist/snscrape), python library for scraping social networking sites like twitter, facebook, instagram e.t.c
