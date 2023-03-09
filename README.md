@@ -6,6 +6,7 @@
 - [Books](#books)
 - [Tools](#tools)
   - [Web Scraping Tools](#webscraping)
+- [Datasets](#datasets)
 
 
 -----------------------------------------------------
@@ -47,3 +48,12 @@ $---$
 ### Web Scraping Tools
 
   - [Snscrape](https://github.com/JustAnotherArchivist/snscrape), python library for scraping social networking sites like twitter, facebook, instagram e.t.c
+  
+ 
+$---$
+
+<a id="datasets"></a>
+## Datasets
+
+  - [NLP Datasets](https://github.com/niderhoff/nlp-datasets)
+    > Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data.
