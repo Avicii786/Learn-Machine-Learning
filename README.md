@@ -8,6 +8,7 @@
   - [Specific ML Tools](#smltools)
   - [Web Scraping Tools](#webscraping)
 - [Datasets](#datasets)
+- [Blogs to Follow](#blogs)
 
 
 -----------------------------------------------------
@@ -63,3 +64,9 @@ $---$
 
   - [NLP Datasets](https://github.com/niderhoff/nlp-datasets)
     > Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data.
+
+
+<a id='blogs'></a>
+## Blogs to Follow
+
+  - [Colah's Blog](https://colah.github.io/)
