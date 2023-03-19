@@ -74,6 +74,8 @@ $---$
   
 <a id="specificareas"></a>
 ## Deep Learning Applied in Specific Fields - Courses
+
+### Satelite Image Deep Learning
   - [Satelite Image Deep Learning](https://satellite-image-deep-learning.github.io/course/welcome.html)
   - [ML4EO Bootcamp](https://online.atingi.org/mod/h5pactivity/view.php?id=29792)
   - [Geo Spatial Data Science](https://github.com/satellite-image-deep-learning/course)
