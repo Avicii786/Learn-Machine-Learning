@@ -76,11 +76,13 @@ $---$
 ## Deep Learning Applied in Specific Fields - Courses
 
 ### Satelite Image Deep Learning
+
   - [Satelite Deep Learning Website](https://github.com/satellite-image-deep-learning)
   - [Satelite Image Deep Learning](https://satellite-image-deep-learning.github.io/course/welcome.html)
   - [ML4EO Bootcamp](https://online.atingi.org/mod/h5pactivity/view.php?id=29792)
   - [Geo Spatial Data Science](https://github.com/satellite-image-deep-learning/course)
   - 3 Part Video Workshop on Deep learning for Satelite Imagery - [1](https://www.youtube.com/watch?v=3Xn21RT-y7Y&list=PLINDPtcaHmLZqBB2PwHPiqtRnpT-iL6Pm&index=31&ab_channel=Prodramp), [2](https://youtu.be/UBzMgr6yfpw), [3](https://youtu.be/i40ulpcacFM)
+  - [Earth Observation Applications with Deep Learning](https://www.youtube.com/playlist?list=PL5qJYH4P0jS-uow1p1knwdxCPb15-6kJT)
 
 
 
