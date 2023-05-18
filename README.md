@@ -4,6 +4,7 @@
 - [General Resources](#general)
 - [Courses](#courses)
 - [Books](#books)
+- [Blogs to Read](#blogstoread)
 - [Tools](#tools)
   - [Specific ML Tools](#smltools)
   - [Web Scraping Tools](#webscraping)
@@ -43,8 +44,17 @@ $---$
   - An excellent and free book you can start your deep learning journey: [Dive in to Deep Learning](http://d2l.ai/index.html)
 
 
+
 $---$
 
+<a id="blogstoread"></a>
+## Blogs to Read
+### Blogs for Understanding CNN
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+### Blogs for Understanding RNN
+
+$---$
 <a id="tools"></a>
 ## 4) Tools
 
