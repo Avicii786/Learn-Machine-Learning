@@ -50,9 +50,12 @@ $---$
 <a id="blogstoread"></a>
 ## Blogs to Read
 ### Blogs for Understanding CNN
+
+### Blogs for Understanding RNN
+
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-### Blogs for Understanding RNN
+
 
 $---$
 <a id="tools"></a>
